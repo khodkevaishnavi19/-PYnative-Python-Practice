@@ -1,4 +1,5 @@
-# -PYnative-Python-Practice
+🐍 PYnative Python Practice
+
 Daily Python coding practice using PYnative exercises, covering concepts from basic to advanced. This repository documents my learning journey, problem-solving skills, and Python programming progress through consistent hands-on practice.
 
 Welcome to my **Python Practice Repository!**
@@ -55,7 +56,9 @@ This repository contains my daily solutions to Python coding exercises from PYna
 ```text
 PYnative-Python-Practice/
 │
-├── 01_Python_Basics/
+├── README.md
+│
+└── 01_Python_Basics/
 ├── 02_Conditional_Statements/
 ├── 03_Loops/
 ├── 04_Strings/
